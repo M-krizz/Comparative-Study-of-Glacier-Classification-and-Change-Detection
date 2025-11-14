@@ -1,0 +1,41 @@
+Difference image saved to: D:\GLOF\final\Detect_changes\changes_14_15.jpg
+Glacier Area in 2014: 2202985 pixels
+Glacier Area in 2015: 2040135 pixels
+Change in Glacier Area: -162850 pixels
+
+
+
+Difference image saved to: D:\GLOF\final\Detect_changes\changes_15_16.jpg
+Glacier Area in 2015: 2040135 pixels
+Glacier Area in 2016: 2300253 pixels
+Change in Glacier Area: 260118 pixels
+
+
+Difference image saved to: D:\GLOF\final\Detect_changes\changes_16_17.jpg
+Glacier Area in 2016: 2300253 pixels
+Glacier Area in 2017: 2543259 pixels
+Change in Glacier Area: 243006 pixels
+
+
+Difference image saved to: D:\GLOF\final\Detect_changes\changes_17_18.jpg
+Glacier Area in 2017: 2543259 pixels
+Glacier Area in 2018: 2441958 pixels
+Change in Glacier Area: -101301 pixels
+
+
+Difference image saved to: D:\GLOF\final\Detect_changes\changes_18_19.jpg
+Glacier Area in 2018: 2441958 pixels
+Glacier Area in 2019: 2455425 pixels
+Change in Glacier Area: 13467 pixels
+
+
+
+Difference image saved to: D:\GLOF\final\Detect_changes\changes_19_20.jpg
+Glacier Area in 2019: 2455425 pixels
+Glacier Area in 2020: 2282737 pixels
+Change in Glacier Area: -172688 pixels
+
+Difference image saved to: D:\GLOF\final\Detect_changes\changes_14_20.jpg
+Glacier Area in 2014: 2202985 pixels
+Glacier Area in 2020: 2282737 pixels
+Change in Glacier Area: 79752 pixels
